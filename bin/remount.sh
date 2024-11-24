@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/system/bin/sh
 # AIK-mobile/remount: reload current unpacked ramdisk
 # osm0sis @ xda-developers
 

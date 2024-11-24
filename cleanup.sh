@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/system/bin/sh
 # AIK-mobile/cleanup: reset working directory
 # osm0sis @ xda-developers
 

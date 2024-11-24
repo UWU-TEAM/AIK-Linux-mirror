@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/system/bin/sh
 # AIK-mobile/unpackimg: split image and unpack ramdisk
 # osm0sis @ xda-developers
 
