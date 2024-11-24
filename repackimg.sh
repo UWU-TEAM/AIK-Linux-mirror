@@ -1,4 +1,4 @@
-#!/syatem/bin/sh
+#!/bin/bash
 # AIK-mobile/repackimg: repack ramdisk and build image
 # osm0sis @ xda-developers
 
